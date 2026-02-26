@@ -85,6 +85,10 @@ personal-portfolio-main/
 <img width="1868" height="893" alt="image" src="https://github.com/user-attachments/assets/5754af7b-cf27-4542-bc9a-5c8dd69a8646" />
 <img width="1823" height="912" alt="image" src="https://github.com/user-attachments/assets/5be595cb-7780-4d14-a5f6-0780a36b4af8" />
 <img width="1251" height="818" alt="image" src="https://github.com/user-attachments/assets/92c084f8-908c-4501-9769-efe774aa7bf6" />
+<img width="1857" height="910" alt="image" src="https://github.com/user-attachments/assets/9185e608-ac3f-495f-bb54-4429f2e22be4" />
+
+
+More than just a website — this portfolio is a story of my journey, hard work, and passion as a Computer Science student striving to make an impact through technology.
 
 
 
